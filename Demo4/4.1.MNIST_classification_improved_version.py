@@ -40,12 +40,15 @@ W4=tf.Variable(tf.truncated_normal([1000,10],stddev=0.1))
 b4=tf.Variable(tf.zeros([10])+0.1)
 prediction=tf.nn.softmax(tf.matmul(A3_drop,W4)+b4)
 
+#学习率
+lr=tf.Variable(0.001,dtype=tf.float32)
+
 #交叉熵损失函数
 # loss=tf.reduce_mean(tf.square(y-prediction))
 loss=tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(labels=y,logits=prediction))
 #梯度下降法
 #train_step=tf.train.GradientDescentOptimizer(0.2).minimize(loss)
-train_step=tf.train.AdamOptimizer(1e-4).minimize(loss)
+train_step=tf.train.AdamOptimizer(lr).minimize(loss)
 
 #初始化变量
 init=tf.global_variables_initializer()
@@ -57,6 +60,8 @@ accuracy=tf.reduce_mean(tf.cast(correct_prediction,tf.float32))
 with tf.Session() as sess:
     sess.run(init)
     for epoch in range(31):
+        #学习率衰减
+        sess.run(tf.assign(lr,0.001*(0.95**epoch)))
         for batch in range(n_batch):
             batch_xs,batch_ys=mnist.train.next_batch(batch_size)
             sess.run(train_step,feed_dict={x:batch_xs,y:batch_ys,keep_prob:0.7})
