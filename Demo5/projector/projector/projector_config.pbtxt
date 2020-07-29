@@ -1,0 +1,9 @@
+embeddings {
+  tensor_name: "embedding:0"
+  metadata_path: "/Users/xinshichao/PersonalWork/AboutGit/GitCode/Tensorflow_Code_Demo/Demo5/projector/projector/metadata.tsv"
+  sprite {
+    image_path: "/Users/xinshichao/PersonalWork/AboutGit/GitCode/Tensorflow_Code_Demo/Demo5/projector/data/mnist_10k_sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+}
