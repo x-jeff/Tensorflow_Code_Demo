@@ -12,4 +12,6 @@
 
 #### 【[Demo4](https://github.com/x-jeff/Tensorflow_Code_Demo/tree/master/Demo4)】[【Tensorflow基础】第五课：模型优化](http://shichaoxin.com/2020/05/25/Tensorflow基础-第五课-模型优化/)
 
+#### 【[Demo5](https://github.com/x-jeff/Tensorflow_Code_Demo/tree/master/Demo5)】[【Tensorflow基础】第六课：TensorBoard的使用](http://shichaoxin.com/2020/07/29/Tensorflow基础-第六课-TensorBoard的使用/)
+
 #### 【waiting to update...】
