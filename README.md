@@ -14,4 +14,6 @@
 
 #### 【[Demo5](https://github.com/x-jeff/Tensorflow_Code_Demo/tree/master/Demo5)】[【Tensorflow基础】第六课：TensorBoard的使用](http://shichaoxin.com/2020/07/29/Tensorflow基础-第六课-TensorBoard的使用/)
 
+#### 【[Demo6](https://github.com/x-jeff/Tensorflow_Code_Demo/tree/master/Demo6)】[【Tensorflow基础】第七课：卷积神经网络的实现](http://shichaoxin.com/2020/09/11/Tensorflow基础-第七课-卷积神经网络的实现/)
+
 #### 【waiting to update...】
