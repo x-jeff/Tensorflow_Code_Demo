@@ -16,4 +16,6 @@
 
 #### 【[Demo6](https://github.com/x-jeff/Tensorflow_Code_Demo/tree/master/Demo6)】[【Tensorflow基础】第七课：卷积神经网络的实现](http://shichaoxin.com/2020/09/11/Tensorflow基础-第七课-卷积神经网络的实现/)
 
+#### 【[Demo7](https://github.com/x-jeff/Tensorflow_Code_Demo/tree/master/Demo7)】[【Tensorflow基础】第八课：循环神经网络的实现](http://shichaoxin.com/2021/03/22/Tensorflow基础-第八课-循环神经网络的实现/)
+
 #### 【waiting to update...】
