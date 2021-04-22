@@ -18,4 +18,6 @@
 
 #### 【[Demo7](https://github.com/x-jeff/Tensorflow_Code_Demo/tree/master/Demo7)】[【Tensorflow基础】第八课：循环神经网络的实现](http://shichaoxin.com/2021/03/22/Tensorflow基础-第八课-循环神经网络的实现/)
 
+#### 【[Demo8](https://github.com/x-jeff/Tensorflow_Code_Demo/tree/master/Demo8)】[【Tensorflow基础】第九课：模型的保存和载入](http://shichaoxin.com/2021/04/21/Tensorflow基础-第九课-模型的保存和载入/)
+
 #### 【waiting to update...】
