@@ -20,4 +20,6 @@
 
 #### 【[Demo8](https://github.com/x-jeff/Tensorflow_Code_Demo/tree/master/Demo8)】[【Tensorflow基础】第九课：模型的保存和载入](http://shichaoxin.com/2021/04/21/Tensorflow基础-第九课-模型的保存和载入/)
 
+#### 【[Demo9](https://github.com/x-jeff/Tensorflow_Code_Demo/tree/master/Demo9)】[【Tensorflow基础】第十课：Inception-v3的训练和检测](http://shichaoxin.com/2022/01/22/Tensorflow基础-第十课-Inception-v3的训练和检测/)
+
 #### 【waiting to update...】
