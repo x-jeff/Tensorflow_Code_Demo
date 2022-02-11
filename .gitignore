@@ -6,3 +6,5 @@ Demo9/17flowers.tar
 Demo9/inception_log/events.out.tfevents.1642514023.192.168.1.17
 Demo9/inception_model/*
 Demo9/images.tar
+Demo10/data.bin
+Demo10/models/

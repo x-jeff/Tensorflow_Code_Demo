@@ -22,4 +22,6 @@
 
 #### 【[Demo9](https://github.com/x-jeff/Tensorflow_Code_Demo/tree/master/Demo9)】[【Tensorflow基础】第十课：Inception-v3的训练和检测](http://shichaoxin.com/2022/01/22/Tensorflow基础-第十课-Inception-v3的训练和检测/)
 
+#### 【[Demo10](https://github.com/x-jeff/Tensorflow_Code_Demo/tree/master/Demo10)】[【Tensorflow基础】第十一课：TFRecord的生成](http://shichaoxin.com/2022/02/09/Tensorflow基础-第十一课-TFRecord的生成/)
+
 #### 【waiting to update...】
