@@ -24,4 +24,6 @@
 
 #### 【[Demo10](https://github.com/x-jeff/Tensorflow_Code_Demo/tree/master/Demo10)】[【Tensorflow基础】第十一课：TFRecord的生成](http://shichaoxin.com/2022/02/09/Tensorflow基础-第十一课-TFRecord的生成/)
 
+#### 【[Demo11](https://github.com/x-jeff/Tensorflow_Code_Demo/tree/master/Demo11)】[【Tensorflow基础】第十二课：验证码的生成与识别](http://shichaoxin.com/2022/03/11/Tensorflow基础-第十二课-验证码的生成与识别/)
+
 #### 【waiting to update...】
