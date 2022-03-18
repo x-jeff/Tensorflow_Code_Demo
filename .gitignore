@@ -8,3 +8,5 @@ Demo9/inception_model/*
 Demo9/images.tar
 Demo10/data.bin
 Demo10/models/
+Demo11/captcha/
+Demo11/nets/
