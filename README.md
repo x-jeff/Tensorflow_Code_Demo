@@ -26,4 +26,6 @@
 
 #### 【[Demo11](https://github.com/x-jeff/Tensorflow_Code_Demo/tree/master/Demo11)】[【Tensorflow基础】第十二课：验证码的生成与识别](http://shichaoxin.com/2022/03/11/Tensorflow基础-第十二课-验证码的生成与识别/)
 
+#### 【[Demo12](https://github.com/x-jeff/Tensorflow_Code_Demo/tree/master/Demo12)】[【Tensorflow基础】第十三课：Word2Vec](http://shichaoxin.com/2022/04/07/Tensorflow基础-第十三课-Word2Vec/)
+
 #### 【waiting to update...】
