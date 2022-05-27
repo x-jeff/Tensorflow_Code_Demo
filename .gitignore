@@ -12,3 +12,6 @@ Demo11/captcha/
 Demo11/nets/
 Demo12/text8.zip
 Demo12/tsne.png
+Demo13/__pycache__/
+Demo13/data/
+demo13/runs/
