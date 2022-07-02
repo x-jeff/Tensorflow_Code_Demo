@@ -30,4 +30,4 @@
 
 #### 【[Demo13](https://github.com/x-jeff/Tensorflow_Code_Demo/tree/master/Demo13)】[【Tensorflow基础】第十四课：CNN在自然语言处理的应用](http://shichaoxin.com/2022/05/02/Tensorflow基础-第十四课-CNN在自然语言处理的应用/)
 
-#### 【waiting to update...】
+#### 【[Demo14](https://github.com/x-jeff/Tensorflow_Code_Demo/tree/master/Demo14)】[【Tensorflow基础】第十五课：声音分类](http://shichaoxin.com/2022/06/10/Tensorflow基础-第十五课-声音分类/)

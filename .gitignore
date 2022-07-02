@@ -15,3 +15,7 @@ Demo12/tsne.png
 Demo13/__pycache__/
 Demo13/data/
 demo13/runs/
+Demo14/audio/
+Demo14/sounds_models/
+Demo14/tr_features.npy
+Demo14/tr_labels.npy
